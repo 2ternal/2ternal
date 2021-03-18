@@ -1,5 +1,6 @@
 ### Hi there 👋
 - I'm CNU CSE student.
+- Can use java, python a little.
 <!--
 **2ternal/2ternal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

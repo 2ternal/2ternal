@@ -9,8 +9,9 @@
   - ETC...
     - Java
     - Solidity
+      - 
 
-- Data Platform Developer Intern SIA(2022.6 ~ 2022.8)
+- Data Engineer Intern SIA(2022.6 ~ 2022.8)
 <!--
 **2ternal/2ternal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

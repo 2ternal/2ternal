@@ -9,7 +9,7 @@
   - ETC...
     - Java
     - Solidity
-      - 
+      - Truffle
 
 - Data Engineer Intern SIA(2022.6 ~ 2022.8)
 <!--

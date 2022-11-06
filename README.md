@@ -6,8 +6,9 @@
     - Streamlit
   - JS
     - React
+  - Java
+    - Spring
   - ETC...
-    - Java
     - Solidity
       - Truffle
 
